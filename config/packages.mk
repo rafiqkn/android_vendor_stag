@@ -264,3 +264,7 @@ PRODUCT_PACKAGES += \
 
 # Icon Shapes
 include vendor/stag/config/iconshapes.mk
+
+# Include Xtended Switch Styles
+include vendor/stag/Switch/switch.mk
+
